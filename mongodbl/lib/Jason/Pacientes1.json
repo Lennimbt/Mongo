@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "62336343e5494a2ea2779e9a"
+  },
+  "nombre": "Lennin",
+  "apellido": "Benavides",
+  "años": "31 ",
+  "genero": "masculino",
+  "estrato": "3",
+  "RH": "a+"
+},{
+  "_id": {
+    "$oid": "62336343e5494a2ea2779e9b"
+  },
+  "nombre": "Jose ",
+  "apellido": "Guerrero",
+  "años": "20 ",
+  "genero": "masculino",
+  "estrato": "3",
+  "RH": "O+"
+},{
+  "_id": {
+    "$oid": "62336343e5494a2ea2779e9c"
+  },
+  "nombre": "Leidy ",
+  "apellido": "Bolaños",
+  "años": "23 ",
+  "genero": "masculino",
+  "estrato": "3",
+  "RH": "A+"
+}]

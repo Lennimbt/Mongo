@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62336afce5494a2ea2779ebe"
+  },
+  "Servicio a pagar": "Ortodoncia",
+  "Valor": "$60.000",
+  "fecha": "23/04/2022",
+  "eps": "Nueva eps"
+},{
+  "_id": {
+    "$oid": "62336afce5494a2ea2779ebf"
+  },
+  "Servicio a pagar": "Higiene oral",
+  "Valor": "$30.000",
+  "fecha": "12/04/2022",
+  "eps": "Nueva eps"
+},{
+  "_id": {
+    "$oid": "62336afce5494a2ea2779ec0"
+  },
+  "Servicio a pagar": "Cirugia",
+  "Valor": "$1000.000",
+  "fecha": "12/04/2022",
+  "eps": "Nueva eps"
+}]

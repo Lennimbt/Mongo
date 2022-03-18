@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6233654ae5494a2ea2779ea2"
+  },
+  "nombre": "Andrea",
+  "apellido": "Guancha",
+  "genero": "femenino",
+  "especialidad": "ortodoncia",
+  "documento": "12345"
+},{
+  "_id": {
+    "$oid": "6233654ae5494a2ea2779ea3"
+  },
+  "nombre": "Valeria",
+  "apellido": "Andrade",
+  "genero": "femenino",
+  "especialidad": "cirugia oral",
+  "documento": "56789"
+},{
+  "_id": {
+    "$oid": "6233654ae5494a2ea2779ea4"
+  },
+  "nombre": "Manuel",
+  "apellido": "Argoty",
+  "genero": "masculino",
+  "especialidad": "rehabilitacion oral",
+  "documento": "23412"
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "62336cb9e5494a2ea2779ece"
+  },
+  "Tipo de tratamiento": "Blanqueamiento",
+  "Medico": "Andrea perez",
+  "Fecha": "5/05/2022 ",
+  "Hora": "3:00 Pm",
+  "Costo": "$100.000"
+},{
+  "_id": {
+    "$oid": "62336cb9e5494a2ea2779ecf"
+  },
+  "Tipo de tratamiento": "Diseño de Sonrisa",
+  "Medico": "Manuel Gomez",
+  "Fecha": "20/05/2022 ",
+  "Hora": "2:00 Pm",
+  "Costo": "$1000.000"
+},{
+  "_id": {
+    "$oid": "62336cb9e5494a2ea2779ed0"
+  },
+  "Tipo de tratamiento": "Tratamiento de Conducto",
+  "Medico": "Valeria perez",
+  "Fecha": "5/04/2022 ",
+  "Hora": "5:00 Pm",
+  "Costo": "$300.000"
+}]

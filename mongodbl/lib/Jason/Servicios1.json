@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62336dd8e5494a2ea2779ed6"
+  },
+  "Tipo de servicio": "Rayos x",
+  "Medico": "Andrea perez",
+  "Fecha": "5/05/2022 ",
+  "Hora": "3:00 Pm"
+},{
+  "_id": {
+    "$oid": "62336dd8e5494a2ea2779ed7"
+  },
+  "Tipo de servicio": "Panoramica",
+  "Medico": "Valeria Andrade",
+  "Fecha": "23/05/2022 ",
+  "Hora": "2:00 Pm"
+},{
+  "_id": {
+    "$oid": "62336dd8e5494a2ea2779ed8"
+  },
+  "Tipo de servicio": "Toma de placas",
+  "Medico": "Sergio Perez",
+  "Fecha": "5/04/2022 ",
+  "Hora": "4:00 Pm"
+}]

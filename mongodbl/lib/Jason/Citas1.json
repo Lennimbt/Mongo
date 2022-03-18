@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "62336714e5494a2ea2779eae"
+  },
+  "servicio": "ortodoncia",
+  "medico": "Valeria",
+  "fecha": "25/04/2022 ",
+  "hora": "8 am",
+  "valor consulta": "$10000"
+},{
+  "_id": {
+    "$oid": "62336714e5494a2ea2779eaf"
+  },
+  "servicio": "cirugia oral",
+  "medico": "Manuel",
+  "fecha": "23/05/2022 ",
+  "hora": "10 am",
+  "valor consulta": "15000"
+},{
+  "_id": {
+    "$oid": "62336714e5494a2ea2779eb0"
+  },
+  "servicio": "higiene oral ",
+  "medico": "Andrea",
+  "fecha": "2/05/2022 ",
+  "hora": "11 am",
+  "valor consulta": "30000"
+}]

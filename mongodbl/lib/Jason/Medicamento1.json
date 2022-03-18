@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62336945e5494a2ea2779eb8"
+  },
+  "Medicamento": "Acetaminofen",
+  "Observacion": "tomar cada ocho horas durante cinco dias",
+  "fecha": "23/05/2022",
+  "Costo": "$5000"
+},{
+  "_id": {
+    "$oid": "62336945e5494a2ea2779eb9"
+  },
+  "Medicamento": "Nimesulida",
+  "Observacion": "tomar cada ocho horas durante cinco dias",
+  "fecha": "6/05/2022 ",
+  "Costo": "$8000"
+},{
+  "_id": {
+    "$oid": "62336945e5494a2ea2779eba"
+  },
+  "Medicamento": "amoxicilina",
+  "Observacion": "tomar cada doce horas durante cinco dias",
+  "fecha": "8/04/2022 ",
+  "Costo": "$20000"
+}]
